@@ -739,6 +739,10 @@ time
   background-color: #ededed;
   margin-top: -20px;
 }
+.navbar-brand a {
+  color: #8a8a8a;
+  border-bottom: none !important;
+}
 
 }
 
