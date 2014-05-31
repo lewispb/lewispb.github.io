@@ -289,7 +289,7 @@ pre
   font-weight:bolder;
   color:#fff;
   text-align:center;
-  padding-top:20%
+  padding: 20% 10% 0 10%;
 }
 
 .wide
@@ -322,7 +322,7 @@ pre
   transition:all .5s ease 0
 }
 
-#welcome-greeting > h2
+#welcome-greeting p
 {
   font-size:2em;
   font-weight:100;
@@ -331,7 +331,7 @@ pre
   line-height:140%
 }
 
-#welcome-greeting h2 a
+#welcome-greeting p a
 {
   font-weight:100;
   color:#e77729
