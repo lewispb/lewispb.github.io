@@ -488,6 +488,20 @@ time {
   margin-top: 0;
 }
 
+/* About Us */
+
+.aboutus h1 {
+  margin-bottom: 20px;
+}
+
+.aboutus h3 {
+  font-weight: 300;
+  text-transform: capitalize;
+  margin: 20px 0;
+}
+
+/* Portfolio */
+
 .section {
   margin-top: 40px;
 }
